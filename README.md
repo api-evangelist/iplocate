@@ -64,5 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-IPLocate (formerly GeoIPs) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.iplocate.io/
+IPLocate (formerly GeoIPs) provides a free and paid IP geolocation, privacy detection, and threat intelligence API. Developers can query real‑time IP address location, ASN, company, and risk data, with downloadable databases for offline use. The service emphasizes accuracy, speed, and comprehensive data fields for security, personalization, and fraud prevention use cases.
+
+**Areas:** Company · IP Geolocation · Threat Detection · Privacy · API · Data
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.iplocate.io/)
+- [Documentation](https://www.iplocate.io/docs/)
+- [Getting started](https://www.iplocate.io/docs/quick-start)
+- [API reference](https://www.iplocate.io/openapi.yaml)
+- [Pricing](https://www.iplocate.io/pricing)
+- [Support](https://www.iplocate.io/contact)
+- [Blog](https://www.iplocate.io/blog)
+- [Terms of service](https://www.iplocate.io/legal/terms)
+- [Privacy policy](https://www.iplocate.io/legal/privacy)
+- [GitHub](https://github.com/iplocate)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/iplocate/](https://apis.io/providers/iplocate/).
